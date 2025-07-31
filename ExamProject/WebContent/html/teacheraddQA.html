@@ -1,0 +1,270 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="C:\asp.net projects\ExamProject\ExamProject\WebContent\css\StyleSheet.css" rel="stylesheet" />
+    
+</head>
+<body>
+    <div id="viewport">
+        <!-- Sidebar -->
+        <div id="sidebar">
+            <header>
+                <a href="#">My App</a>
+            </header>
+            <ul class="nav">
+                <li>
+                    <a href="C:\asp.net projects\ExamProject\ExamProject\WebContent\html\index.html"><i class="zmdi zmdi-view-dashboard"></i> Home</a>
+                </li>
+                <li >
+                    <a href=""><i class="zmdi zmdi-view-dashboard" id="text"></i>Add Questions and Answers </a>
+                </li>
+                <li>
+                    <a href="C:\asp.net projects\ExamProject\ExamProject\WebContent\html\checkQA.html"><i class="zmdi zmdi-widgets"></i>View Questions and Answers</a>
+                </li>
+                <li>
+                    <a href="C:\asp.net projects\ExamProject\ExamProject\WebContent\html\studentExamInformation.html"><i class="zmdi zmdi-calendar"></i> Student View</a>
+                </li>
+                <li><a href="#"><i class="zmdi zmdi-info-outline"></i> Logout</a></li>
+
+            </ul>
+        </div>
+
+        <!-- Content -->
+        <div id="content">
+            <nav class="navbar navbar-default">
+
+                <div>
+                    <h2 id="title"></h2>
+                </div>
+                <div>
+                    <img src="C:\asp.net projects\ExamProject\ExamProject\img\User Profile free icons designed by surang.png" style="width:50px" />
+                </div>
+            </nav>
+            <div class="container-fluid">
+                <div class="container mt-3">
+                    <h2>Add Questions and Answers</h2>
+                    <br>
+                    <!-- Nav tabs -->
+                    <ul class="nav nav-tabs" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link active" data-bs-toggle="tab" href="#tfid">True or False</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-bs-toggle="tab" href="#choiceid">Multiple Choice</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-bs-toggle="tab" href="#blankid">Blank</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-bs-toggle="tab" href="#note">Short Note</a>
+                        </li>
+                    </ul>
+
+                    <!-- Tab panes -->
+                    <div class="tab-content">
+                        <div id="tfid" class="container tab-pane active">
+                            <br>
+                            <h3>True or False</h3>
+                            <div class="form-floating">
+                                <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></textarea>
+                                <label for="floatingTextarea2">Add True or False Questions</label>
+                            </div>
+
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
+                                <label class="form-check-label" for="inlineRadio1">True</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+                                <label class="form-check-label" for="inlineRadio2">False</label>
+                            </div>
+                            <div>
+                                <button type="submit" class="btn btn-primary mt-3">Submit</button>
+                            </div>
+
+                        </div>
+
+
+                        <!--Mutiple Choices-->
+                        <div id="choiceid" class="container tab-pane fade">
+                            <br>
+                            <h3>Multiple Choices</h3>
+                            
+                                
+
+                                <div class="form-floating">
+                                    <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></textarea>
+                                    <label for="floatingTextarea2">Add Mutliple Choice Questions</label>
+                                </div>
+
+                                <div>
+                                    <input type="text" class="form-control form-control-lg mt-3" placeholder="Add Answer Option 1">
+                                </div>
+                                
+                                <div>
+                                    <input type="text" class="form-control form-control-lg mt-3" placeholder="Add Answer Option 2">
+                                </div>
+
+                                <div>
+                                    <input type="text" class="form-control form-control-lg mt-3" placeholder="Add Answer Option 3">
+                                </div>
+
+                                <div>
+                                    <input type="text" class="form-control form-control-lg mt-3" placeholder="Add Answer Option 4">
+                                </div>
+                                
+                                <div>
+                                    <button type="submit" class="btn btn-primary mt-3">Submit</button>
+                                </div>
+
+                            
+                        </div>
+
+
+
+                        <!--Blank-->
+                        <div id="blankid" class="container tab-pane fade">
+                            <br>
+                            <h3>Blank</h3>
+
+                            <div class="form-floating">
+                                <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></textarea>
+                                <label for="floatingTextarea2">Add True or False Questions</label>
+                            </div>
+
+                            <div>
+                                <input type="text" class="form-control form-control-lg mt-3" placeholder="Add Answer">
+                            </div>
+
+
+                            <div>
+                                <button type="submit" class="btn btn-primary mt-3">Submit</button>
+                            </div>
+                        </div>
+
+
+
+
+                        <!--Short Notes-->
+                        <div id="note" class="container tab-pane fade">
+                            <br>
+                            <h3>Short Note</h3>
+                            <div class="form-floating">
+                                <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></textarea>
+                                <label for="floatingTextarea2">Add Blank Questions</label>
+                            </div>
+
+                            <div>
+                                <button type="submit" class="btn btn-primary mt-3">Submit</button>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script src="C:\asp.net projects\ExamProject\ExamProject\bootstrap\bootstrap.bundle.js"></script>
+    <script src="C:\asp.net projects\ExamProject\ExamProject\bootstrap\bootstrap.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        const apiBase = "https://localhost:7104/api/TeacherQA";
+
+        
+        document.addEventListener("DOMContentLoaded", () => {
+
+            const subjectTitle = document.getElementById("title");  
+            const subjectName = sessionStorage.getItem("subjectName");
+
+
+            subjectTitle.textContent = `Subject : ${subjectName}`;
+
+            document.querySelectorAll(".tab-content .btn-primary").forEach(button => {
+                button.addEventListener("click", handleSubmit);
+            });
+        });
+
+        function handleSubmit(event) {
+            const subjectId = sessionStorage.getItem("subjectId");
+
+            const tabPane = event.target.closest(".tab-pane");
+            const tabId = tabPane.id;
+
+            
+
+            
+            const questionModeMap = {
+                tfid: 1,
+                choiceid: 2,
+                blankid: 3,
+                note: 4
+            };
+            const questionModeId = questionModeMap[tabId];
+
+            
+            const questionEl = tabPane.querySelector("textarea");
+            const question = questionEl ? questionEl.value.trim() : "";
+
+            if (!question) return alert("Please enter a question!");
+
+            
+            let answer = "";
+
+            if (questionModeId === 1 || questionModeId === 2) {
+                const checked = tabPane.querySelector("input[type='radio']:checked");
+                if (!checked) return alert("Please select an answer!");
+                answer = checked.nextElementSibling.textContent.trim();
+            } else if (questionModeId === 3) {
+                const answerInput = tabPane.querySelector("input[type='text']");
+                if (!answerInput) return alert("Answer input not found.");
+                answer = answerInput.value.trim();
+            } else {
+                answer = "N/A"; // For Short Notes,  no ans
+            }
+
+            
+            const newQuestion = {
+                teacherQuestionAnswerId: 0,
+                question: question,
+                answer: answer,
+                subjectId: subjectId, 
+                questionModeId: questionModeId,
+                studentAnswers: []
+            };
+
+            
+            postQuestion(newQuestion);
+        }
+
+        async function postQuestion(data) {
+            try {
+                const res = await fetch(apiBase, {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify(data)
+                });
+
+                if (!res.ok) throw new Error("Failed to add question");
+                alert("Question added successfully!");
+
+                // Optional: clear inputs
+                document.querySelectorAll("textarea").forEach(el => el.value = "");
+                document.querySelectorAll("input[type='radio']").forEach(el => el.checked = false);
+                document.querySelectorAll("input[type='text']").forEach(el => el.value = "");
+
+            } catch (err) {
+                console.error(err);
+                alert("Error adding question.");
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "CZRunTOpTB9wHpJwGjY7MWnPh06v+twRorUeLfLv3Kk=",
+  "Source": "ExamProject",
+  "BasePath": "_content/ExamProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ExamProject\\wwwroot",
+      "Source": "ExamProject",
+      "ContentRoot": "C:\\asp.net projects\\ExamProject\\ExamProject\\wwwroot\\",
+      "BasePath": "_content/ExamProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,641 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\asp.net projects\\ExamProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\webcontent\\js\\teachersubjectlist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\webcontent\\js\\teachersubjectlist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\webcontent\\html\\teachersubjectlist.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\webcontent\\html\\teachersubjectlist.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\webcontent\\js\\checkqa.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\webcontent\\js\\checkqa.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\webcontent\\html\\teacherlogin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\webcontent\\html\\teacherlogin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\webcontent\\html\\teachercreateaccount.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\webcontent\\html\\teachercreateaccount.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\controllers\\teacherqa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\controllers\\teacherqa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\webcontent\\html\\checkqa.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\webcontent\\html\\checkqa.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\webcontent\\html\\teacheraddqa.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\webcontent\\html\\teacheraddqa.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\webcontent\\js\\teachercreataccount.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\webcontent\\js\\teachercreataccount.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\webcontent\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\webcontent\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\webcontent\\js\\teacherlogin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\webcontent\\js\\teacherlogin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\webcontent\\html\\studentexaminformation.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\webcontent\\html\\studentexaminformation.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\webcontent\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\webcontent\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\models\\teachertqa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\models\\teachertqa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\data\\examprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\data\\examprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\webcontent\\css\\teachercreataccount.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\webcontent\\css\\teachercreataccount.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\dtos\\studentanswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\dtos\\studentanswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\dtos\\subjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\dtos\\subjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\dtos\\teacherqadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\dtos\\teacherqadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\appmapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\appmapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\htmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\htmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\dtos\\classdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\dtos\\classdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\dtos\\questionmodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\dtos\\questionmodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\models\\studentanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\models\\studentanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\models\\questionmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\models\\questionmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|c:\\asp.net projects\\examproject\\examproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0301BB7-91EB-430F-9056-C31CBF9D46FF}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "teachersubjectList.html",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\html\\teachersubjectList.html",
+              "RelativeDocumentMoniker": "ExamProject\\WebContent\\html\\teachersubjectList.html",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\html\\teachersubjectList.html",
+              "RelativeToolTip": "ExamProject\\WebContent\\html\\teachersubjectList.html",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-22T15:57:05.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "ExamProject\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:22:14.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeacherCreatAccount.js",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\js\\TeacherCreatAccount.js",
+              "RelativeDocumentMoniker": "ExamProject\\WebContent\\js\\TeacherCreatAccount.js",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\js\\TeacherCreatAccount.js",
+              "RelativeToolTip": "ExamProject\\WebContent\\js\\TeacherCreatAccount.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-29T09:46:19.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "checkQA.js",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\js\\checkQA.js",
+              "RelativeDocumentMoniker": "ExamProject\\WebContent\\js\\checkQA.js",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\js\\checkQA.js",
+              "RelativeToolTip": "ExamProject\\WebContent\\js\\checkQA.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-21T08:53:23.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "teacherLogin.html",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\html\\teacherLogin.html",
+              "RelativeDocumentMoniker": "ExamProject\\WebContent\\html\\teacherLogin.html",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\html\\teacherLogin.html",
+              "RelativeToolTip": "ExamProject\\WebContent\\html\\teacherLogin.html",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAACAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-30T09:22:32.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeacherQA.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Controllers\\TeacherQA.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Controllers\\TeacherQA.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Controllers\\TeacherQA.cs",
+              "RelativeToolTip": "ExamProject\\Controllers\\TeacherQA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:42:03.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherSubjectList.js",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\js\\TeacherSubjectList.js",
+              "RelativeDocumentMoniker": "ExamProject\\WebContent\\js\\TeacherSubjectList.js",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\js\\TeacherSubjectList.js",
+              "RelativeToolTip": "ExamProject\\WebContent\\js\\TeacherSubjectList.js",
+              "ViewState": "AgIAAGoAAAAAAAAAAADwv20AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-30T07:28:55.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "teacheraddQA.html",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\html\\teacheraddQA.html",
+              "RelativeDocumentMoniker": "ExamProject\\WebContent\\html\\teacheraddQA.html",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\html\\teacheraddQA.html",
+              "RelativeToolTip": "ExamProject\\WebContent\\html\\teacheraddQA.html",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAALsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-20T10:48:04.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeacherCreateAccount.html",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\html\\TeacherCreateAccount.html",
+              "RelativeDocumentMoniker": "ExamProject\\WebContent\\html\\TeacherCreateAccount.html",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\html\\TeacherCreateAccount.html",
+              "RelativeToolTip": "ExamProject\\WebContent\\html\\TeacherCreateAccount.html",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAH4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-21T15:02:30.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "checkQA.html",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\html\\checkQA.html",
+              "RelativeDocumentMoniker": "ExamProject\\WebContent\\html\\checkQA.html",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\html\\checkQA.html",
+              "RelativeToolTip": "ExamProject\\WebContent\\html\\checkQA.html",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAJIAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-20T15:49:40.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ExamProject\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:52:21.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Controllers\\SubjectController.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "ExamProject\\Controllers\\SubjectController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:05:57.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "ExamProject\\WebContent\\css\\StyleSheet.css",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\css\\StyleSheet.css",
+              "RelativeToolTip": "ExamProject\\WebContent\\css\\StyleSheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-20T11:11:57.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "studentExamInformation.html",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\html\\studentExamInformation.html",
+              "RelativeDocumentMoniker": "ExamProject\\WebContent\\html\\studentExamInformation.html",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\html\\studentExamInformation.html",
+              "RelativeToolTip": "ExamProject\\WebContent\\html\\studentExamInformation.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-20T16:27:50.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "teacherLogin.js",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\js\\teacherLogin.js",
+              "RelativeDocumentMoniker": "ExamProject\\WebContent\\js\\teacherLogin.js",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\js\\teacherLogin.js",
+              "RelativeToolTip": "ExamProject\\WebContent\\js\\teacherLogin.js",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-30T04:34:59.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\html\\index.html",
+              "RelativeDocumentMoniker": "ExamProject\\WebContent\\html\\index.html",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\html\\index.html",
+              "RelativeToolTip": "ExamProject\\WebContent\\html\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-20T16:43:28.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExamProjectContext.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Data\\ExamProjectContext.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Data\\ExamProjectContext.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Data\\ExamProjectContext.cs",
+              "RelativeToolTip": "ExamProject\\Data\\ExamProjectContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAWwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T14:47:45.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Models\\Teacher.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Models\\Teacher.cs",
+              "RelativeToolTip": "ExamProject\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:28:12.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TeachertQa.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Models\\TeachertQa.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Models\\TeachertQa.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Models\\TeachertQa.cs",
+              "RelativeToolTip": "ExamProject\\Models\\TeachertQa.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:35:17.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "ExamProject\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvycAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:25:20.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TeacherCreatAccount.css",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\css\\TeacherCreatAccount.css",
+              "RelativeDocumentMoniker": "ExamProject\\WebContent\\css\\TeacherCreatAccount.css",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\WebContent\\css\\TeacherCreatAccount.css",
+              "RelativeToolTip": "ExamProject\\WebContent\\css\\TeacherCreatAccount.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-29T09:49:50.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Models\\Subject.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Models\\Subject.cs",
+              "RelativeToolTip": "ExamProject\\Models\\Subject.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:28:03.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentAnswerDto.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Dtos\\StudentAnswerDto.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Dtos\\StudentAnswerDto.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Dtos\\StudentAnswerDto.cs",
+              "RelativeToolTip": "ExamProject\\Dtos\\StudentAnswerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:31:29.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SubjectDto.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Dtos\\SubjectDto.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Dtos\\SubjectDto.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Dtos\\SubjectDto.cs",
+              "RelativeToolTip": "ExamProject\\Dtos\\SubjectDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:31:43.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TeacherQaDto.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Dtos\\TeacherQaDto.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Dtos\\TeacherQaDto.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Dtos\\TeacherQaDto.cs",
+              "RelativeToolTip": "ExamProject\\Dtos\\TeacherQaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:32:11.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppMapperProfile.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\AppMapperProfile.cs",
+              "RelativeDocumentMoniker": "ExamProject\\AppMapperProfile.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\AppMapperProfile.cs",
+              "RelativeToolTip": "ExamProject\\AppMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:36:14.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Models\\Student.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Models\\Student.cs",
+              "RelativeToolTip": "ExamProject\\Models\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:27:48.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Dtos\\StudentDto.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Dtos\\StudentDto.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Dtos\\StudentDto.cs",
+              "RelativeToolTip": "ExamProject\\Dtos\\StudentDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T14:49:07.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "htmlpage.html",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\htmlpage.html",
+              "RelativeDocumentMoniker": "ExamProject\\htmlpage.html",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\htmlpage.html",
+              "RelativeToolTip": "ExamProject\\htmlpage.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-21T09:31:23.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TeacherDto.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Dtos\\TeacherDto.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Dtos\\TeacherDto.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Dtos\\TeacherDto.cs",
+              "RelativeToolTip": "ExamProject\\Dtos\\TeacherDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:31:58.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "QuestionModeDto.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Dtos\\QuestionModeDto.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Dtos\\QuestionModeDto.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Dtos\\QuestionModeDto.cs",
+              "RelativeToolTip": "ExamProject\\Dtos\\QuestionModeDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:31:04.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Dtos\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Dtos\\DepartmentDto.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Dtos\\DepartmentDto.cs",
+              "RelativeToolTip": "ExamProject\\Dtos\\DepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:30:49.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ClassDto.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Dtos\\ClassDto.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Dtos\\ClassDto.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Dtos\\ClassDto.cs",
+              "RelativeToolTip": "ExamProject\\Dtos\\ClassDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:30:38.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "StudentAnswer.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Models\\StudentAnswer.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Models\\StudentAnswer.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Models\\StudentAnswer.cs",
+              "RelativeToolTip": "ExamProject\\Models\\StudentAnswer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:27:54.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "QuestionMode.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Models\\QuestionMode.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Models\\QuestionMode.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Models\\QuestionMode.cs",
+              "RelativeToolTip": "ExamProject\\Models\\QuestionMode.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:19:34.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Models\\Department.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Models\\Department.cs",
+              "RelativeToolTip": "ExamProject\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:19:32.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Models\\Class.cs",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\Models\\Class.cs",
+              "RelativeToolTip": "ExamProject\\Models\\Class.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:19:29.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\asp.net projects\\ExamProject\\ExamProject\\appsettings.json",
+              "RelativeDocumentMoniker": "ExamProject\\appsettings.json",
+              "ToolTip": "C:\\asp.net projects\\ExamProject\\ExamProject\\appsettings.json",
+              "RelativeToolTip": "ExamProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T09:10:41.543Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
